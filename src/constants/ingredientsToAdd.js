@@ -3,7 +3,7 @@ const ingredientsToAdd = [
       id: 1,
       name: 'Marul',
       color: 'green',
-      price: 1,
+      price: 2,
       count: 0,
     },
   
@@ -11,7 +11,7 @@ const ingredientsToAdd = [
       id: 2,
       name: 'Peynir',
       color: '#ffa600',
-      price: 4,
+      price: 5,
       count: 0,
     },
   
@@ -27,7 +27,7 @@ const ingredientsToAdd = [
       id: 4,
       name: 'Domates',
       color: 'red',
-      price: 2,
+      price: 1,
       count: 0,
     },
   ];
